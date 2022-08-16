@@ -5,7 +5,7 @@ client.on("ready", async () => {
     await client.setActivity({
         details: "Your Favourite Discord Bot !",
         state: "Supports BiliBili and many more !",
-        largeImageText: "Listen to your favorite tunes !",
+        largeImageText: "Listen to your favorite tunes",
         largeImageKey: "nezu-image",
         startTimestamp: Date.now(),
         buttons: [
